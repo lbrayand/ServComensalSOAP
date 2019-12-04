@@ -1,0 +1,11 @@
+G:\ServiceSOAP\Comensal.Entidad\bin\Debug\Comensal.Entidad.dll
+G:\ServiceSOAP\Comensal.Entidad\bin\Debug\Comensal.Entidad.pdb
+G:\ServiceSOAP\Comensal.Entidad\obj\Debug\Comensal.Entidad.csprojAssemblyReference.cache
+G:\ServiceSOAP\Comensal.Entidad\obj\Debug\Comensal.Entidad.csproj.CoreCompileInputs.cache
+G:\ServiceSOAP\Comensal.Entidad\obj\Debug\Comensal.Entidad.dll
+G:\ServiceSOAP\Comensal.Entidad\obj\Debug\Comensal.Entidad.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Entidad\bin\Debug\Comensal.Entidad.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Entidad\bin\Debug\Comensal.Entidad.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Entidad\obj\Debug\Comensal.Entidad.csproj.CoreCompileInputs.cache
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Entidad\obj\Debug\Comensal.Entidad.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Entidad\obj\Debug\Comensal.Entidad.pdb

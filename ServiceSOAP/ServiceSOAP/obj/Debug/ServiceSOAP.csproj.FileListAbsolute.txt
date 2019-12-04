@@ -1,0 +1,138 @@
+G:\ServiceSOAP\ServiceSOAP\obj\Debug\ServiceSOAP.csprojAssemblyReference.cache
+G:\ServiceSOAP\ServiceSOAP\obj\Debug\ServiceSOAP.csproj.CoreCompileInputs.cache
+G:\ServiceSOAP\ServiceSOAP\bin\ServiceSOAP.dll.config
+G:\ServiceSOAP\ServiceSOAP\bin\ServiceSOAP.dll
+G:\ServiceSOAP\ServiceSOAP\bin\ServiceSOAP.pdb
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\csc.exe
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\csc.exe.config
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\csc.rsp
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\csi.exe
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\csi.exe.config
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\csi.rsp
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.AppContext.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Collections.Immutable.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Console.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.IO.Compression.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.IO.FileSystem.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.IO.Pipes.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Reflection.Metadata.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.AccessControl.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Claims.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Principal.Windows.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.ValueTuple.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Xml.XPath.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\vbc.exe
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\vbc.exe.config
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\vbc.rsp
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\VBCSCompiler.exe
+G:\ServiceSOAP\ServiceSOAP\bin\roslyn\VBCSCompiler.exe.config
+G:\ServiceSOAP\ServiceSOAP\bin\Comensal.Entidad.dll
+G:\ServiceSOAP\ServiceSOAP\bin\Comensal.Negocio.dll
+G:\ServiceSOAP\ServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ServiceSOAP\ServiceSOAP\bin\Comensal.Datos.dll
+G:\ServiceSOAP\ServiceSOAP\bin\MySql.Data.dll
+G:\ServiceSOAP\ServiceSOAP\bin\Google.Protobuf.dll
+G:\ServiceSOAP\ServiceSOAP\bin\BouncyCastle.Crypto.dll
+G:\ServiceSOAP\ServiceSOAP\bin\Renci.SshNet.dll
+G:\ServiceSOAP\ServiceSOAP\bin\Comensal.Entidad.pdb
+G:\ServiceSOAP\ServiceSOAP\bin\Comensal.Negocio.pdb
+G:\ServiceSOAP\ServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ServiceSOAP\ServiceSOAP\bin\Comensal.Datos.pdb
+G:\ServiceSOAP\ServiceSOAP\bin\MySql.Data.xml
+G:\ServiceSOAP\ServiceSOAP\bin\Google.Protobuf.xml
+G:\ServiceSOAP\ServiceSOAP\bin\Renci.SshNet.xml
+G:\ServiceSOAP\ServiceSOAP\obj\Debug\ServiceSOAP.csproj.CopyComplete
+G:\ServiceSOAP\ServiceSOAP\obj\Debug\ServiceSOAP.dll
+G:\ServiceSOAP\ServiceSOAP\obj\Debug\ServiceSOAP.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\ServiceSOAP.dll.config
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\ServiceSOAP.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\ServiceSOAP.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\csc.exe
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\csc.exe.config
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\csc.rsp
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\csi.exe
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\csi.exe.config
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\csi.rsp
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.AppContext.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Collections.Immutable.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Console.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.IO.Compression.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.IO.FileSystem.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.IO.Pipes.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Reflection.Metadata.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.AccessControl.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Claims.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Security.Principal.Windows.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.ValueTuple.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Xml.XPath.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\vbc.exe
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\vbc.exe.config
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\vbc.rsp
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\VBCSCompiler.exe
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\roslyn\VBCSCompiler.exe.config
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Comensal.Entidad.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Comensal.Negocio.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Comensal.Datos.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\MySql.Data.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Google.Protobuf.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\BouncyCastle.Crypto.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Renci.SshNet.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Comensal.Entidad.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Comensal.Negocio.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Comensal.Datos.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\MySql.Data.xml
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Google.Protobuf.xml
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\bin\Renci.SshNet.xml
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\obj\Debug\ServiceSOAP.csprojAssemblyReference.cache
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\obj\Debug\ServiceSOAP.csproj.CoreCompileInputs.cache
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\obj\Debug\ServiceSOAP.csproj.CopyComplete
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\obj\Debug\ServiceSOAP.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\ServiceSOAP\obj\Debug\ServiceSOAP.pdb

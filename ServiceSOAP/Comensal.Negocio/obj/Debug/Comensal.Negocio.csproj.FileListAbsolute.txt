@@ -1,0 +1,36 @@
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Negocio.dll
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Negocio.pdb
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Datos.dll
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Entidad.dll
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\MySql.Data.dll
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\Google.Protobuf.dll
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\BouncyCastle.Crypto.dll
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\Renci.SshNet.dll
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Datos.pdb
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Entidad.pdb
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\MySql.Data.xml
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\Google.Protobuf.xml
+G:\ServiceSOAP\Comensal.Negocio\bin\Debug\Renci.SshNet.xml
+G:\ServiceSOAP\Comensal.Negocio\obj\Debug\Comensal.Negocio.csprojAssemblyReference.cache
+G:\ServiceSOAP\Comensal.Negocio\obj\Debug\Comensal.Negocio.csproj.CoreCompileInputs.cache
+G:\ServiceSOAP\Comensal.Negocio\obj\Debug\Comensal.Negocio.csproj.CopyComplete
+G:\ServiceSOAP\Comensal.Negocio\obj\Debug\Comensal.Negocio.dll
+G:\ServiceSOAP\Comensal.Negocio\obj\Debug\Comensal.Negocio.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Negocio.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Negocio.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Datos.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Entidad.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\MySql.Data.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\Google.Protobuf.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\BouncyCastle.Crypto.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\Renci.SshNet.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Datos.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\Comensal.Entidad.pdb
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\MySql.Data.xml
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\Google.Protobuf.xml
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\bin\Debug\Renci.SshNet.xml
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\obj\Debug\Comensal.Negocio.csprojAssemblyReference.cache
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\obj\Debug\Comensal.Negocio.csproj.CoreCompileInputs.cache
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\obj\Debug\Comensal.Negocio.csproj.CopyComplete
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\obj\Debug\Comensal.Negocio.dll
+D:\UPC\201902\Sistemas Distribuidos\Git\ServiceComensalSOAP\ServiceSOAP\Comensal.Negocio\obj\Debug\Comensal.Negocio.pdb
